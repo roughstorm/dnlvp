@@ -25,6 +25,6 @@ Please change [dnlvp] to your Laravel project(folder) name.<br>
 Docker version 20.10.10
  
 # Installation
-git clone https://github.com/roughstorm/dnlvp
-cd dnlvp
-docker-compose up --build -d
+git clone https://github.com/roughstorm/dnlvp<br>
+cd dnlvp<br>
+docker-compose up --build -d<br>
