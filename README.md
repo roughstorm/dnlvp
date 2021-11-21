@@ -6,7 +6,8 @@ Config files are for build local development environment(Nginx, Laravel(PHP), Vu
 
 # Note
 ローカルでのDockerコマンド実行前に、<br>
-`docker-compose.yml`内の`pgadmin`の`environment`の`PGADMIN_DEFAULT_EMAIL`のメールアドレスを適宜変更してください。<br>
+`docker-compose.yml`内の、
+`pgadmin`の`environment`の`PGADMIN_DEFAULT_EMAIL`のメールアドレスを適宜変更してください。<br>
 <br>
 また、`docker/web/default.conf`内にて、<br>
 rootを`root /var/www/html/[dnlvp]/public;`と指定しています。<br>
